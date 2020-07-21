@@ -9,6 +9,7 @@ For more returns on investment, we want to find out the two best markets to adve
 ### Data gathering
 we found that data from freeCodeCamp's 2017 New coder survey ideal for the purpose of our analysis. The survey data is publicly available in [this](https://github.com/freeCodeCamp/2017-new-coder-survey) GitHub repository 
 
+### Data Analysis
 Before starting to analyze the sample data we have, we need to clarify whether it's representative for our population of interest and it has the right categories of people for our purpose. 
 
 Then we figure out what are the best markets to invest money in for advertising our courses by answering the questions:
